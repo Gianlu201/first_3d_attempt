@@ -1,4 +1,4 @@
-import { World } from '../src/World2/World2.js';
+import { World } from '../src/World3/World3.js';
 
 function main() {
   // Get a reference to the container element
